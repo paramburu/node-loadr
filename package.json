@@ -1,0 +1,29 @@
+{
+  "name": "node-loadr",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paramburu/node-loadr.git"
+  },
+  "author": "Pedro J. Aramburu <paramburu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paramburu/node-loadr/issues"
+  },
+  "homepage": "https://github.com/paramburu/node-loadr#readme"
+}
