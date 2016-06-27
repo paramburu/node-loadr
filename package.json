@@ -1,18 +1,17 @@
 {
-  "name": "node-loadr",
+  "name": "loadr",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
+  "esversion": 6,
   "directories": {
     "example": "examples",
     "test": "test"
   },
   "dependencies": {
-    "chai": "^3.5.0"
+    "debug": "^2.2.0"
   },
-  "devDependencies": {
-    "mocha": "^2.5.3"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
